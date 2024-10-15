@@ -1,0 +1,9 @@
+  <!-- Enlaces Rápidos -->
+            <div class="footer-section">
+    <h4>Contacto</h4>
+    <div class="footer-section">
+        <p>Teléfono: <a href="tel:+1234567890">(123) 456-7890</a></p>
+        <p>Email: <a href="mailto:info@llenguimusic.com">info@llenguimusic.com</a></p>
+        <p>Dirección: <a href="https://www.google.com/maps?q=Dirección+de+Llengui+Music" target="_blank">Dirección...</a></p>
+    </div>
+</div>
